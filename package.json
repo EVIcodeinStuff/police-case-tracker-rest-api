@@ -1,0 +1,21 @@
+{
+  "name": "CaseTrackerAPI",
+  "version": "1.0.0",
+  "description": "restuflapi",
+  "main": "casetrackerserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EVI",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.12.3",
+    "express": "^4.12.3",
+    "express-mongoose-auth": "0.0.1",
+    "jwt-simple": "^0.3.0",
+    "mongoose": "^3.9.7",
+    "morgan": "^1.5.2",
+    "node-restful": "^0.1.18"
+  },
+  "devDependencies": {}
+}
